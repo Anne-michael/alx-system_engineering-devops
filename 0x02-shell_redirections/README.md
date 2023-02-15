@@ -1,0 +1,1 @@
+how to use commands head,tail,find,wc,sort,uniq,grep,tr, how to redirect standard output from a file, how to get standard output from a file instead of the keyboard, how to combine commands and filter with redirections, understanding special characters
